@@ -13,8 +13,8 @@ To get started with this repository, follow these steps:
 
 2. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/harrysingh1908/Internship_Assignment.git
+    cd Internship_Assignment
     ```
 
 3. **Download the `.pkt` Files**:
