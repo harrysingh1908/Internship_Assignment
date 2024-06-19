@@ -64,5 +64,5 @@ To get started with this repository, follow these steps:
 
 ### Feedback on the Assignment
 
-We would greatly appreciate it if you could share your feedback on the assignment with Albus Security. This was a good assignment and very helpful. Dijkstra's algorithm and the GUI-based file manager were the toughest parts, but I was able to complete and learn from the rest of the tasks effectively.
+This was a good assignment and very helpful. Dijkstra's algorithm and the GUI-based file manager were the toughest parts, but I was able to complete and learn from the rest of the tasks effectively. I would like to thank Albus Security for allowing me to have this opportunity to enhance my skills.
 
