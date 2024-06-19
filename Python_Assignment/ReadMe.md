@@ -2,6 +2,7 @@
 
 This repository contains the solutions to various Python programming tasks assigned as part of my internship. The tasks range from basic programming exercises to more advanced projects involving GUI applications and file handling.
 
+
 ## Tasks Involved in This Assignment
 
 1. **Conditional Statements in Python**: Implementing `if`, `if-else`, and `if-elif-else` statements.
@@ -20,7 +21,9 @@ This repository contains the solutions to various Python programming tasks assig
 14. **Bank Account Class**: Creating a class to represent a bank account with methods for deposit, withdrawal, and checking the balance.
 15. **File Manager GUI**: Creating a GUI-based file manager to browse directories and perform basic file operations.
 
+
 ## Getting Started
+
 
 ### Installing Guide
 
@@ -32,8 +35,10 @@ To get started with this repository, follow these steps:
     cd Internship_Assignment
     ```
 
+
 2. **Ensure Python is Installed**:
     Make sure you have Python installed on your system. You can download it from [Python's official website](https://www.python.org/downloads/).
+
 
 3. **Install Required Libraries**:
     Some programs require additional libraries. You can install them using:
@@ -53,6 +58,7 @@ To get started with this repository, follow these steps:
     shutil
     os
     ```
+
     
 4. **Run the Programs**:
     - Navigate to the directory of the specific program.
@@ -61,6 +67,7 @@ To get started with this repository, follow these steps:
     python Program_.py
     ```
     Replace `Program_.py` with the name of the script you want to run.
+
 
 ### Feedback on the Assignment
 
