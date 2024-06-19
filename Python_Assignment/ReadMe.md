@@ -52,7 +52,6 @@ To get started with this repository, follow these steps:
     tkinter
     shutil
     os
-    
     ```
     
 4. **Run the Programs**:
