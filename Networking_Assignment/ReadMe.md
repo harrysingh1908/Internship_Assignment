@@ -18,8 +18,6 @@ To get started with this repository, follow these steps:
     ```
 
 3. **Download the `.pkt` Files**:
-    - Navigate to the `pkt_files` directory in the repository.
-    - Download the `.pkt` files to your local machine.
 
 4. **Open the `.pkt` Files in Cisco Packet Tracer**:
     - Launch Cisco Packet Tracer.
